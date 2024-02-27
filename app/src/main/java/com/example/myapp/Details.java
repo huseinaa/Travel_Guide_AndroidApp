@@ -52,7 +52,7 @@ public class Details extends AppCompatActivity {
         submitDetailsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Details.this, HomePage.class);
+                Intent intent = new Intent(Details.this, MainActivity.class);
                 startActivity(intent);
                 finish();
             }
