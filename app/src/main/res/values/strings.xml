@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Travel Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="favorites">Favorites</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="travel_destination_label">Destination</string>
+    <string name="description_label">Description</string>
+    <string-array name="spinner">
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Africa</item>
+        <item>North America</item>
+        <item>South America</item>
+        <item>Oceania</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_desc">description</string>
+
+    <string name="destination_marrakech_title">Marrakech - Morocco</string>
+    <string name="destination_new_zealand_title">New Zealand</string>
+    <string name="destination_kyoto_title">Kyoto - Japan</string>
+    <string name="destination_hawaii_title">Hawaii</string>
+    <string name="destination_santorini_title">Santorini - Greece</string>
+    <string name="destination_brazil_title">Brazil - Sao Paulo</string>
+    <string name="destination_kenya_title">Safari In Kenya</string>
+    <string name="destination_iceland_title">Iceland</string>
+
+    <string name="destination_marrakech_description">Immerse in Moroccan culture: souks, palaces, gardens.</string>
+    <string name="destination_new_zealand_description">Breathtaking landscapes, camper van adventures.</string>
+    <string name="destination_kyoto_description">Serene temples, gardens, and historical sites.</string>
+    <string name="destination_hawaii_description">Beaches, volcanoes, and outdoor adventures await.</string>
+    <string name="destination_santorini_description">Iconic sunsets, white buildings, and wine tours.</string>
+    <string name="destination_brazil_description">Cultural arts, dining, nightlife experiences.</string>
+    <string name="destination_kenya_description">Masai Mara safari, wildlife tours, and lodging.</string>
+    <string name="destination_iceland_description">Geysers, waterfalls, car rental, and nature sites.</string>
+    <string name="home">Home Page</string>
+    <string name="budget">On Budget :)</string>
+    <string name="spanish">Translate to Spanish</string>
+    <string name="english">Back to English</string>
+    <string name="signout">Sign Out</string>
+
+
+</resources>
