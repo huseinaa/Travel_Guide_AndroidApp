@@ -1,0 +1,28 @@
+<resources>
+    <!-- Destination Titles -->
+    <string name="destination_marrakech_title">Marrakech - Marruecos</string>
+    <string name="destination_new_zealand_title">Nueva Zelanda</string>
+    <string name="destination_kyoto_title">Kioto - Japón</string>
+    <string name="destination_hawaii_title">Hawái</string>
+    <string name="destination_santorini_title">Santorini - Grecia</string>
+    <string name="destination_brazil_title">Brasil - São Paulo</string>
+    <string name="destination_kenya_title">Safari en Kenia</string>
+    <string name="destination_iceland_title">Islandia</string>
+
+        <!-- Destination Descriptions -->
+    <string name="destination_marrakech_description">Sumérgete en la cultura marroquí: zocos, palacios, jardines.</string>
+    <string name="destination_new_zealand_description">Paisajes impresionantes, aventuras en camper van.</string>
+    <string name="destination_kyoto_description">Templos serenos, jardines e sitios históricos.</string>
+    <string name="destination_hawaii_description">Playas, volcanes y aventuras al aire libre te esperan.</string>
+    <string name="destination_santorini_description">Atardeceres icónicos, edificios blancos y tours de vino.</string>
+    <string name="destination_brazil_description">Artes culturales, gastronomía, experiencias nocturnas.</string>
+    <string name="destination_kenya_description">Safari en Masai Mara, tours de vida silvestre y alojamiento.</string>
+    <string name="destination_iceland_description">Géiseres, cascadas, alquiler de coches y sitios naturales.</string>
+
+    <string name="home">Página Principal</string>
+    <string name="budget">Dentro del Presupuesto :)</string>
+    <string name="spanish">Traducir al Español</string>
+    <string name="english">Volver al Inglés</string>
+    <string name="signout">Cerrar Sesión</string>
+
+</resources>
